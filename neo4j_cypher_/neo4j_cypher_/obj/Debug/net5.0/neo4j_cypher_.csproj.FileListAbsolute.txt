@@ -1,0 +1,64 @@
+C:\Users\muhammad.sajid\source\repos\neo4j_cypher_\neo4j_cypher_\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\muhammad.sajid\source\repos\neo4j_cypher_\neo4j_cypher_\bin\Debug\net5.0\appsettings.json
+C:\Users\muhammad.sajid\source\repos\neo4j_cypher_\neo4j_cypher_\bin\Debug\net5.0\neo4j_cypher_.exe
+C:\Users\muhammad.sajid\source\repos\neo4j_cypher_\neo4j_cypher_\bin\Debug\net5.0\neo4j_cypher_.deps.json
+C:\Users\muhammad.sajid\source\repos\neo4j_cypher_\neo4j_cypher_\bin\Debug\net5.0\neo4j_cypher_.runtimeconfig.json
+C:\Users\muhammad.sajid\source\repos\neo4j_cypher_\neo4j_cypher_\bin\Debug\net5.0\neo4j_cypher_.runtimeconfig.dev.json
+C:\Users\muhammad.sajid\source\repos\neo4j_cypher_\neo4j_cypher_\bin\Debug\net5.0\neo4j_cypher_.dll
+C:\Users\muhammad.sajid\source\repos\neo4j_cypher_\neo4j_cypher_\bin\Debug\net5.0\ref\neo4j_cypher_.dll
+C:\Users\muhammad.sajid\source\repos\neo4j_cypher_\neo4j_cypher_\bin\Debug\net5.0\neo4j_cypher_.pdb
+C:\Users\muhammad.sajid\source\repos\neo4j_cypher_\neo4j_cypher_\bin\Debug\net5.0\Microsoft.OpenApi.dll
+C:\Users\muhammad.sajid\source\repos\neo4j_cypher_\neo4j_cypher_\bin\Debug\net5.0\Neo4j.Driver.dll
+C:\Users\muhammad.sajid\source\repos\neo4j_cypher_\neo4j_cypher_\bin\Debug\net5.0\Neo4jClient.dll
+C:\Users\muhammad.sajid\source\repos\neo4j_cypher_\neo4j_cypher_\bin\Debug\net5.0\Newtonsoft.Json.dll
+C:\Users\muhammad.sajid\source\repos\neo4j_cypher_\neo4j_cypher_\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\muhammad.sajid\source\repos\neo4j_cypher_\neo4j_cypher_\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\muhammad.sajid\source\repos\neo4j_cypher_\neo4j_cypher_\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\muhammad.sajid\source\repos\neo4j_cypher_\neo4j_cypher_\obj\Debug\net5.0\neo4j_cypher_.csprojAssemblyReference.cache
+C:\Users\muhammad.sajid\source\repos\neo4j_cypher_\neo4j_cypher_\obj\Debug\net5.0\neo4j_cypher_.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\muhammad.sajid\source\repos\neo4j_cypher_\neo4j_cypher_\obj\Debug\net5.0\neo4j_cypher_.AssemblyInfoInputs.cache
+C:\Users\muhammad.sajid\source\repos\neo4j_cypher_\neo4j_cypher_\obj\Debug\net5.0\neo4j_cypher_.AssemblyInfo.cs
+C:\Users\muhammad.sajid\source\repos\neo4j_cypher_\neo4j_cypher_\obj\Debug\net5.0\neo4j_cypher_.csproj.CoreCompileInputs.cache
+C:\Users\muhammad.sajid\source\repos\neo4j_cypher_\neo4j_cypher_\obj\Debug\net5.0\neo4j_cypher_.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\muhammad.sajid\source\repos\neo4j_cypher_\neo4j_cypher_\obj\Debug\net5.0\neo4j_cypher_.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\muhammad.sajid\source\repos\neo4j_cypher_\neo4j_cypher_\obj\Debug\net5.0\staticwebassets\neo4j_cypher_.StaticWebAssets.Manifest.cache
+C:\Users\muhammad.sajid\source\repos\neo4j_cypher_\neo4j_cypher_\obj\Debug\net5.0\staticwebassets\neo4j_cypher_.StaticWebAssets.xml
+C:\Users\muhammad.sajid\source\repos\neo4j_cypher_\neo4j_cypher_\obj\Debug\net5.0\scopedcss\bundle\neo4j_cypher_.styles.css
+C:\Users\muhammad.sajid\source\repos\neo4j_cypher_\neo4j_cypher_\obj\Debug\net5.0\neo4j_cypher_.RazorTargetAssemblyInfo.cache
+C:\Users\muhammad.sajid\source\repos\neo4j_cypher_\neo4j_cypher_\obj\Debug\net5.0\neo4j_cypher_.csproj.CopyComplete
+C:\Users\muhammad.sajid\source\repos\neo4j_cypher_\neo4j_cypher_\obj\Debug\net5.0\neo4j_cypher_.dll
+C:\Users\muhammad.sajid\source\repos\neo4j_cypher_\neo4j_cypher_\obj\Debug\net5.0\ref\neo4j_cypher_.dll
+C:\Users\muhammad.sajid\source\repos\neo4j_cypher_\neo4j_cypher_\obj\Debug\net5.0\neo4j_cypher_.pdb
+C:\Users\muhammad.sajid\source\repos\neo4j_cypher_\neo4j_cypher_\obj\Debug\net5.0\neo4j_cypher_.genruntimeconfig.cache
+C:\Users\muhammad.sajid\Documents\Sajid\learning material\Neo4j\neo4j_cypher_\neo4j_cypher_\obj\Debug\net5.0\neo4j_cypher_.csprojAssemblyReference.cache
+C:\Users\muhammad.sajid\Documents\Sajid\learning material\Neo4j\neo4j_cypher_\neo4j_cypher_\obj\Debug\net5.0\neo4j_cypher_.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\muhammad.sajid\Documents\Sajid\learning material\Neo4j\neo4j_cypher_\neo4j_cypher_\obj\Debug\net5.0\neo4j_cypher_.AssemblyInfoInputs.cache
+C:\Users\muhammad.sajid\Documents\Sajid\learning material\Neo4j\neo4j_cypher_\neo4j_cypher_\obj\Debug\net5.0\neo4j_cypher_.AssemblyInfo.cs
+C:\Users\muhammad.sajid\Documents\Sajid\learning material\Neo4j\neo4j_cypher_\neo4j_cypher_\obj\Debug\net5.0\neo4j_cypher_.csproj.CoreCompileInputs.cache
+C:\Users\muhammad.sajid\Documents\Sajid\learning material\Neo4j\neo4j_cypher_\neo4j_cypher_\obj\Debug\net5.0\neo4j_cypher_.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\muhammad.sajid\Documents\Sajid\learning material\Neo4j\neo4j_cypher_\neo4j_cypher_\obj\Debug\net5.0\neo4j_cypher_.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\muhammad.sajid\Documents\Sajid\learning material\Neo4j\neo4j_cypher_\neo4j_cypher_\obj\Debug\net5.0\neo4j_cypher_.dll
+C:\Users\muhammad.sajid\Documents\Sajid\learning material\Neo4j\neo4j_cypher_\neo4j_cypher_\obj\Debug\net5.0\ref\neo4j_cypher_.dll
+C:\Users\muhammad.sajid\Documents\Sajid\learning material\Neo4j\neo4j_cypher_\neo4j_cypher_\obj\Debug\net5.0\neo4j_cypher_.pdb
+C:\Users\muhammad.sajid\Documents\Sajid\learning material\Neo4j\neo4j_cypher_\neo4j_cypher_\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\muhammad.sajid\Documents\Sajid\learning material\Neo4j\neo4j_cypher_\neo4j_cypher_\bin\Debug\net5.0\appsettings.json
+C:\Users\muhammad.sajid\Documents\Sajid\learning material\Neo4j\neo4j_cypher_\neo4j_cypher_\bin\Debug\net5.0\neo4j_cypher_.exe
+C:\Users\muhammad.sajid\Documents\Sajid\learning material\Neo4j\neo4j_cypher_\neo4j_cypher_\bin\Debug\net5.0\neo4j_cypher_.deps.json
+C:\Users\muhammad.sajid\Documents\Sajid\learning material\Neo4j\neo4j_cypher_\neo4j_cypher_\bin\Debug\net5.0\neo4j_cypher_.runtimeconfig.json
+C:\Users\muhammad.sajid\Documents\Sajid\learning material\Neo4j\neo4j_cypher_\neo4j_cypher_\bin\Debug\net5.0\neo4j_cypher_.runtimeconfig.dev.json
+C:\Users\muhammad.sajid\Documents\Sajid\learning material\Neo4j\neo4j_cypher_\neo4j_cypher_\bin\Debug\net5.0\neo4j_cypher_.dll
+C:\Users\muhammad.sajid\Documents\Sajid\learning material\Neo4j\neo4j_cypher_\neo4j_cypher_\bin\Debug\net5.0\ref\neo4j_cypher_.dll
+C:\Users\muhammad.sajid\Documents\Sajid\learning material\Neo4j\neo4j_cypher_\neo4j_cypher_\bin\Debug\net5.0\neo4j_cypher_.pdb
+C:\Users\muhammad.sajid\Documents\Sajid\learning material\Neo4j\neo4j_cypher_\neo4j_cypher_\bin\Debug\net5.0\Microsoft.OpenApi.dll
+C:\Users\muhammad.sajid\Documents\Sajid\learning material\Neo4j\neo4j_cypher_\neo4j_cypher_\bin\Debug\net5.0\Neo4j.Driver.dll
+C:\Users\muhammad.sajid\Documents\Sajid\learning material\Neo4j\neo4j_cypher_\neo4j_cypher_\bin\Debug\net5.0\Neo4jClient.dll
+C:\Users\muhammad.sajid\Documents\Sajid\learning material\Neo4j\neo4j_cypher_\neo4j_cypher_\bin\Debug\net5.0\Newtonsoft.Json.dll
+C:\Users\muhammad.sajid\Documents\Sajid\learning material\Neo4j\neo4j_cypher_\neo4j_cypher_\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\muhammad.sajid\Documents\Sajid\learning material\Neo4j\neo4j_cypher_\neo4j_cypher_\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\muhammad.sajid\Documents\Sajid\learning material\Neo4j\neo4j_cypher_\neo4j_cypher_\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\muhammad.sajid\Documents\Sajid\learning material\Neo4j\neo4j_cypher_\neo4j_cypher_\obj\Debug\net5.0\staticwebassets\neo4j_cypher_.StaticWebAssets.Manifest.cache
+C:\Users\muhammad.sajid\Documents\Sajid\learning material\Neo4j\neo4j_cypher_\neo4j_cypher_\obj\Debug\net5.0\staticwebassets\neo4j_cypher_.StaticWebAssets.xml
+C:\Users\muhammad.sajid\Documents\Sajid\learning material\Neo4j\neo4j_cypher_\neo4j_cypher_\obj\Debug\net5.0\scopedcss\bundle\neo4j_cypher_.styles.css
+C:\Users\muhammad.sajid\Documents\Sajid\learning material\Neo4j\neo4j_cypher_\neo4j_cypher_\obj\Debug\net5.0\neo4j_cypher_.RazorTargetAssemblyInfo.cache
+C:\Users\muhammad.sajid\Documents\Sajid\learning material\Neo4j\neo4j_cypher_\neo4j_cypher_\obj\Debug\net5.0\neo4j_cypher_.csproj.CopyComplete
+C:\Users\muhammad.sajid\Documents\Sajid\learning material\Neo4j\neo4j_cypher_\neo4j_cypher_\obj\Debug\net5.0\neo4j_cypher_.genruntimeconfig.cache

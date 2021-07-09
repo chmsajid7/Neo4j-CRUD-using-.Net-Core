@@ -1,0 +1,66 @@
+C:\Users\muhammad.sajid\source\repos\Neo4j\Neo4j\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\muhammad.sajid\source\repos\Neo4j\Neo4j\bin\Debug\net5.0\appsettings.json
+C:\Users\muhammad.sajid\source\repos\Neo4j\Neo4j\bin\Debug\net5.0\Neo4j.exe
+C:\Users\muhammad.sajid\source\repos\Neo4j\Neo4j\bin\Debug\net5.0\Neo4j.deps.json
+C:\Users\muhammad.sajid\source\repos\Neo4j\Neo4j\bin\Debug\net5.0\Neo4j.runtimeconfig.json
+C:\Users\muhammad.sajid\source\repos\Neo4j\Neo4j\bin\Debug\net5.0\Neo4j.runtimeconfig.dev.json
+C:\Users\muhammad.sajid\source\repos\Neo4j\Neo4j\bin\Debug\net5.0\Neo4j.dll
+C:\Users\muhammad.sajid\source\repos\Neo4j\Neo4j\bin\Debug\net5.0\ref\Neo4j.dll
+C:\Users\muhammad.sajid\source\repos\Neo4j\Neo4j\bin\Debug\net5.0\Neo4j.pdb
+C:\Users\muhammad.sajid\source\repos\Neo4j\Neo4j\bin\Debug\net5.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\muhammad.sajid\source\repos\Neo4j\Neo4j\bin\Debug\net5.0\Microsoft.OpenApi.dll
+C:\Users\muhammad.sajid\source\repos\Neo4j\Neo4j\bin\Debug\net5.0\Neo4j.Driver.dll
+C:\Users\muhammad.sajid\source\repos\Neo4j\Neo4j\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\muhammad.sajid\source\repos\Neo4j\Neo4j\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\muhammad.sajid\source\repos\Neo4j\Neo4j\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\muhammad.sajid\source\repos\Neo4j\Neo4j\obj\Debug\net5.0\Neo4j.csprojAssemblyReference.cache
+C:\Users\muhammad.sajid\source\repos\Neo4j\Neo4j\obj\Debug\net5.0\Neo4j.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\muhammad.sajid\source\repos\Neo4j\Neo4j\obj\Debug\net5.0\Neo4j.AssemblyInfoInputs.cache
+C:\Users\muhammad.sajid\source\repos\Neo4j\Neo4j\obj\Debug\net5.0\Neo4j.AssemblyInfo.cs
+C:\Users\muhammad.sajid\source\repos\Neo4j\Neo4j\obj\Debug\net5.0\Neo4j.csproj.CoreCompileInputs.cache
+C:\Users\muhammad.sajid\source\repos\Neo4j\Neo4j\obj\Debug\net5.0\Neo4j.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\muhammad.sajid\source\repos\Neo4j\Neo4j\obj\Debug\net5.0\Neo4j.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\muhammad.sajid\source\repos\Neo4j\Neo4j\obj\Debug\net5.0\staticwebassets\Neo4j.StaticWebAssets.Manifest.cache
+C:\Users\muhammad.sajid\source\repos\Neo4j\Neo4j\obj\Debug\net5.0\staticwebassets\Neo4j.StaticWebAssets.xml
+C:\Users\muhammad.sajid\source\repos\Neo4j\Neo4j\obj\Debug\net5.0\scopedcss\bundle\Neo4j.styles.css
+C:\Users\muhammad.sajid\source\repos\Neo4j\Neo4j\obj\Debug\net5.0\Neo4j.RazorTargetAssemblyInfo.cache
+C:\Users\muhammad.sajid\source\repos\Neo4j\Neo4j\obj\Debug\net5.0\Neo4j.csproj.CopyComplete
+C:\Users\muhammad.sajid\source\repos\Neo4j\Neo4j\obj\Debug\net5.0\Neo4j.dll
+C:\Users\muhammad.sajid\source\repos\Neo4j\Neo4j\obj\Debug\net5.0\ref\Neo4j.dll
+C:\Users\muhammad.sajid\source\repos\Neo4j\Neo4j\obj\Debug\net5.0\Neo4j.pdb
+C:\Users\muhammad.sajid\source\repos\Neo4j\Neo4j\obj\Debug\net5.0\Neo4j.genruntimeconfig.cache
+C:\Users\muhammad.sajid\source\repos\Neo4j\Neo4j\bin\Debug\net5.0\Neo4jClient.dll
+C:\Users\muhammad.sajid\source\repos\Neo4j\Neo4j\bin\Debug\net5.0\Newtonsoft.Json.dll
+C:\Users\muhammad.sajid\Documents\Sajid\learning material\Neo4j\Neo4j\Neo4j\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\muhammad.sajid\Documents\Sajid\learning material\Neo4j\Neo4j\Neo4j\bin\Debug\net5.0\appsettings.json
+C:\Users\muhammad.sajid\Documents\Sajid\learning material\Neo4j\Neo4j\Neo4j\bin\Debug\net5.0\Neo4j.exe
+C:\Users\muhammad.sajid\Documents\Sajid\learning material\Neo4j\Neo4j\Neo4j\bin\Debug\net5.0\Neo4j.deps.json
+C:\Users\muhammad.sajid\Documents\Sajid\learning material\Neo4j\Neo4j\Neo4j\bin\Debug\net5.0\Neo4j.runtimeconfig.json
+C:\Users\muhammad.sajid\Documents\Sajid\learning material\Neo4j\Neo4j\Neo4j\bin\Debug\net5.0\Neo4j.runtimeconfig.dev.json
+C:\Users\muhammad.sajid\Documents\Sajid\learning material\Neo4j\Neo4j\Neo4j\bin\Debug\net5.0\Neo4j.dll
+C:\Users\muhammad.sajid\Documents\Sajid\learning material\Neo4j\Neo4j\Neo4j\bin\Debug\net5.0\ref\Neo4j.dll
+C:\Users\muhammad.sajid\Documents\Sajid\learning material\Neo4j\Neo4j\Neo4j\bin\Debug\net5.0\Neo4j.pdb
+C:\Users\muhammad.sajid\Documents\Sajid\learning material\Neo4j\Neo4j\Neo4j\bin\Debug\net5.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\muhammad.sajid\Documents\Sajid\learning material\Neo4j\Neo4j\Neo4j\bin\Debug\net5.0\Microsoft.OpenApi.dll
+C:\Users\muhammad.sajid\Documents\Sajid\learning material\Neo4j\Neo4j\Neo4j\bin\Debug\net5.0\Neo4j.Driver.dll
+C:\Users\muhammad.sajid\Documents\Sajid\learning material\Neo4j\Neo4j\Neo4j\bin\Debug\net5.0\Neo4jClient.dll
+C:\Users\muhammad.sajid\Documents\Sajid\learning material\Neo4j\Neo4j\Neo4j\bin\Debug\net5.0\Newtonsoft.Json.dll
+C:\Users\muhammad.sajid\Documents\Sajid\learning material\Neo4j\Neo4j\Neo4j\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\muhammad.sajid\Documents\Sajid\learning material\Neo4j\Neo4j\Neo4j\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\muhammad.sajid\Documents\Sajid\learning material\Neo4j\Neo4j\Neo4j\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\muhammad.sajid\Documents\Sajid\learning material\Neo4j\Neo4j\Neo4j\obj\Debug\net5.0\Neo4j.csprojAssemblyReference.cache
+C:\Users\muhammad.sajid\Documents\Sajid\learning material\Neo4j\Neo4j\Neo4j\obj\Debug\net5.0\Neo4j.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\muhammad.sajid\Documents\Sajid\learning material\Neo4j\Neo4j\Neo4j\obj\Debug\net5.0\Neo4j.AssemblyInfoInputs.cache
+C:\Users\muhammad.sajid\Documents\Sajid\learning material\Neo4j\Neo4j\Neo4j\obj\Debug\net5.0\Neo4j.AssemblyInfo.cs
+C:\Users\muhammad.sajid\Documents\Sajid\learning material\Neo4j\Neo4j\Neo4j\obj\Debug\net5.0\Neo4j.csproj.CoreCompileInputs.cache
+C:\Users\muhammad.sajid\Documents\Sajid\learning material\Neo4j\Neo4j\Neo4j\obj\Debug\net5.0\Neo4j.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\muhammad.sajid\Documents\Sajid\learning material\Neo4j\Neo4j\Neo4j\obj\Debug\net5.0\Neo4j.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\muhammad.sajid\Documents\Sajid\learning material\Neo4j\Neo4j\Neo4j\obj\Debug\net5.0\staticwebassets\Neo4j.StaticWebAssets.Manifest.cache
+C:\Users\muhammad.sajid\Documents\Sajid\learning material\Neo4j\Neo4j\Neo4j\obj\Debug\net5.0\staticwebassets\Neo4j.StaticWebAssets.xml
+C:\Users\muhammad.sajid\Documents\Sajid\learning material\Neo4j\Neo4j\Neo4j\obj\Debug\net5.0\scopedcss\bundle\Neo4j.styles.css
+C:\Users\muhammad.sajid\Documents\Sajid\learning material\Neo4j\Neo4j\Neo4j\obj\Debug\net5.0\Neo4j.RazorTargetAssemblyInfo.cache
+C:\Users\muhammad.sajid\Documents\Sajid\learning material\Neo4j\Neo4j\Neo4j\obj\Debug\net5.0\Neo4j.csproj.CopyComplete
+C:\Users\muhammad.sajid\Documents\Sajid\learning material\Neo4j\Neo4j\Neo4j\obj\Debug\net5.0\Neo4j.dll
+C:\Users\muhammad.sajid\Documents\Sajid\learning material\Neo4j\Neo4j\Neo4j\obj\Debug\net5.0\ref\Neo4j.dll
+C:\Users\muhammad.sajid\Documents\Sajid\learning material\Neo4j\Neo4j\Neo4j\obj\Debug\net5.0\Neo4j.pdb
+C:\Users\muhammad.sajid\Documents\Sajid\learning material\Neo4j\Neo4j\Neo4j\obj\Debug\net5.0\Neo4j.genruntimeconfig.cache
